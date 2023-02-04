@@ -1,4 +1,4 @@
-## `css-grid-example`
+## `CSS-Grid-Example`
 ```
 In this repository, I've added some examples using grid layout and created a responsive image gallery using CSS grid layout.
 ```
